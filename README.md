@@ -21,21 +21,14 @@
   <img src="https://img.shields.io/badge/JavaScript-282828?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-282828?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-282828?style=flat-square&logo=css3&logoColor=white"/>
-  <br>
-  
   <img src="https://img.shields.io/badge/Flutter-282828?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-282828?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React native-282828?style=flat-square&logo=react&logoColor=white"/>
   <br>
-
+  <img src="https://img.shields.io/badge/React native-282828?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-282828?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-282828?style=flat-square&logo=node.js&logoColor=white"/>
-  <br>
-  
   <img src="https://img.shields.io/badge/MySQL-282828?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-282828?style=flat-square&logo=mongodb&logoColor=white"/>
-  <br>
-  
   <img src="https://img.shields.io/badge/Figma-282828?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-282828?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-282828?style=flat-square&logo=github&logoColor=white"/>
