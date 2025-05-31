@@ -1,6 +1,8 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?&section=header&type=venom&height=200&color=0:b224ef,100:7579ff&text=Junghyeok&animation=fadeIn&fontColor=282828&fontSize=48&desc=Designer%20|%20Developer&descAlignY=70)
+
+![header-light](https://capsule-render.vercel.app/api?&section=header&type=venom&height=200&color=0:b224ef,100:7579ff&text=Junghyeok&animation=fadeIn&fontColor=282828&fontSize=48&desc=Designer%20|%20Developer&descAlignY=70#gh-light-mode-only)
+
+![header-dark](https://capsule-render.vercel.app/api?&section=header&type=venom&height=200&color=0:b224ef,100:7579ff&text=Junghyeok&animation=fadeIn&fontColor=FFFFFF&fontSize=48&desc=Designer%20|%20Developer&descAlignY=70#gh-dark-mode-only)
 
 </div>
 
