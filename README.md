@@ -1,12 +1,12 @@
 <div align="center">
-
-![header-light](https://capsule-render.vercel.app/api?&section=header&type=venom&height=200&color=0:b224ef,100:7579ff&text=Junghyeok&animation=fadeIn&fontColor=282828&fontSize=48&desc=Designer%20|%20Developer&descAlignY=70#gh-light-mode-only)
-
-![header-dark](https://capsule-render.vercel.app/api?&section=header&type=venom&height=200&color=0:b224ef,100:7579ff&text=Junghyeok&animation=fadeIn&fontColor=FFFFFF&fontSize=48&desc=Designer%20|%20Developer&descAlignY=70#gh-dark-mode-only)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:b224ef%2C100:7579ff&height=200&text=Junghyeok&fontSize=48&fontColor=ffffff&desc=Designer%20|%20Developer&descSize=20&descAlignY=70">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:b224ef%2C100:7579ff&height=200&text=Junghyeok&fontSize=48&fontColor=333333&desc=Designer%20|%20Developer&descSize=20&descAlignY=70">
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=venom&color=0:b224ef%2C100:7579ff&height=200&text=Junghyeok&fontSize=48&fontColor=ffffff&desc=Designer%20|%20Developer&&descSize=20descAlignY=70">
+</picture>
 </div>
-
-<br/><br/>
+  
+<br/>
 
 <h2 align="center"> 
   Tech Stack 
