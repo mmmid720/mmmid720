@@ -6,7 +6,7 @@
 </picture>
 </div>
   
-<br/>
+<br/><br/><br/><br/><br/><br/>
 
 <h2 align="center"> 
   Tech Stack 
